@@ -19,7 +19,6 @@
 | Project | What it is |
 | --- | --- |
 | [playwright-e2e-showcase](https://github.com/sofiasofiasml/playwright-e2e-showcase) | Playwright + TypeScript E2E suite: POM, fixtures, cross-browser, CI and a [live HTML report](https://sofiasofiasml.github.io/playwright-e2e-showcase/) |
-| [LesGo](https://github.com/sofiasofiasml/LesGo) | Party game app with 20 minigames. Expo/React Native + TypeScript |
 | [ConGozoYsinCulpa](https://github.com/sofiasofiasml/ConGozoYsinCulpa) | Website for a therapist. React + TypeScript + Vite, Express server |
 
 My work for LEVEL and QApedia is in private repositories.
