@@ -9,10 +9,10 @@
 
 ### Tech stack
 
-**Testing:** Playwright · Appium · Selenium · BrowserStack · API testing · Azure DevOps · Jira
-**Languages:** TypeScript · JavaScript · Java · Python
-**Web & mobile:** React · Next.js · NestJS · Node/Express · React Native (Expo)
-**Data & cloud:** PostgreSQL · Prisma · Firebase · Supabase · Azure · GitHub Actions
+- **Testing:** Playwright · Appium · Selenium · BrowserStack · Azure DevOps · Jira
+- **Languages:** TypeScript · JavaScript · Java · Python
+- **Web & mobile:** React · Next.js · NestJS · Node/Express · React Native (Expo)
+- **Data & cloud:** PostgreSQL · Prisma · Firebase · Supabase · Azure · GitHub Actions
 
 ### Featured
 
